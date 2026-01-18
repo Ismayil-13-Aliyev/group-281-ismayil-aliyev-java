@@ -1,6 +1,7 @@
 package classwork_5;
 
 import java.util.Arrays;
+import java.util.Scanner;
 
 public class Classwork_5 {
 	public static void main(String[] args) {
@@ -90,5 +91,33 @@ public class Classwork_5 {
 		System.out.println("***");
 		System.out.println("****");
 		System.out.println("*****");
+		
+		//14
+		
+		System.out.println("*****");
+		System.out.println("****");
+		System.out.println("***");
+		System.out.println("**");
+		System.out.println("*");
+		
+		//15
+		
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("Enter number: ");
+		int n = sc.nextInt();
+		
+		System.out.println("*".repeat(n));
+		
+		//16
+		
+		Scanner sc2 = new Scanner(System.in);
+		
+		System.out.println("Enter number2: ");
+		int w = sc2.nextInt();
+		
+		for (int x = 1; x <= w; x++) {
+			System.out.println(x);
+		}
 	}
 }
