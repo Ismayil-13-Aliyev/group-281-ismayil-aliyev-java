@@ -119,5 +119,9 @@ public class Classwork_5 {
 		for (int x = 1; x <= w; x++) {
 			System.out.println(x);
 		}
+		
+		//17
+		
+		
 	}
 }
