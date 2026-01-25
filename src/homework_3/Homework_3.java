@@ -6,13 +6,19 @@ public class Homework_3 {
 			
 			Student myStudent = new Student("Alex", 38, 4.5);
 			
-//			myStudent.printinfo(); VVV CEM PROBLEMA YA VSO 100 RAZ PROVERIL
-			
+			myStudent.printInfo();
 			
 			//2
 			
-			int result = myStudent.sum(5, 6);
+			Calculatir c = new Calculatir();
 			
-			System.out.println(result);
+			int resultt = c.sum(4, 12);
+			System.out.println(resultt);
+			
+			double resultAver = c.average(32.0, 34.0);
+			
+			System.out.println(resultAver);
+			
+			c.printMax(2, 97, 124, 3472);
 		}
 }

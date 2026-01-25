@@ -14,10 +14,4 @@ public class Student {
 	public void printInfo () {
 		System.out.println("Name " + name + ", age " + age + ", average grade " + averageGrade);
 	}
-	
-	//2
-	
-	public int sum(int a, int b) {
-		return a + b;
-	}
 }
