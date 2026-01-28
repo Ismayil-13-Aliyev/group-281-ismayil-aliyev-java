@@ -20,5 +20,13 @@ public class Homework_3 {
 			System.out.println(resultAver);
 			
 			c.printMax(2, 97, 124, 3472);
+			
+			//3
+			
+			Printer p = new Printer();
+			
+			p.print("Hello");
+			p.print(12);
+			p.print(46.6, "Helllo");
 		}
 }
