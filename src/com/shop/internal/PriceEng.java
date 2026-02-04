@@ -1,5 +1,10 @@
 package com.shop.internal;
 
 public class PriceEng {
-
+	package com.shop.internal;
+	import com.shop.core.Product;
+	
+	public static double calculateDiscountedPrice(Product p, double discountPercent) {
+		return p.price - (p.price * discountPercent / 100); //?????????????????????????????
+	}
 }
