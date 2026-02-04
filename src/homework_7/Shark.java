@@ -1,5 +1,5 @@
 package homework_7;
 
-public class Shark {
-
+public class Shark extends Animals {
+	boolean rearlyGetsCancer;
 }

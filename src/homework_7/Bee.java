@@ -1,5 +1,5 @@
 package homework_7;
 
-public class Bee {
-
+public class Bee extends Animals {
+	boolean canDanceToComunicate;
 }

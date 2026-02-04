@@ -1,5 +1,5 @@
 package homework_7;
 
-public class Lion {
-
+public class Lion extends Animals {
+	int prideSize;
 }

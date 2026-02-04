@@ -1,5 +1,5 @@
 package homework_7;
 
-public class Owl {
-
+public class Owl extends Animals {
+	int headRotationDegrees;
 }

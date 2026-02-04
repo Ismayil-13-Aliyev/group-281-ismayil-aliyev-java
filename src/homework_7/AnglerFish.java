@@ -1,5 +1,5 @@
 package homework_7;
 
-public class AnglerFish {
-
+public class AnglerFish extends Animals {
+	boolean hasBioluminescentLure;
 }

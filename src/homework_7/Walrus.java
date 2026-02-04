@@ -1,5 +1,5 @@
 package homework_7;
 
-public class Walrus {
-
+public class Walrus extends Animals {
+	boolean usesTusksForIce;
 }

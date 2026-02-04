@@ -1,5 +1,5 @@
 package homework_7;
 
-public class Wolf {
-
+public class Wolf extends Animals {
+	int hierreLevel;
 }

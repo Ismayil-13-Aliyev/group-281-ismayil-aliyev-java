@@ -1,5 +1,5 @@
 package homework_7;
 
-public class Giraffe {
-
+public class Giraffe extends Animals {
+	int sleepMinutesPerDay;
 }

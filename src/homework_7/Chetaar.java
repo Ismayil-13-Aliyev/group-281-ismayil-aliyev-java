@@ -1,5 +1,5 @@
 package homework_7;
 
-public class Chetaar {
-
+public class Chetaar extends Animals {
+	int maxSpeedKmH;
 }

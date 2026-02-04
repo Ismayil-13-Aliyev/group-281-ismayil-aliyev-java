@@ -1,5 +1,5 @@
 package homework_7;
 
-public class Kanguruu {
-
+public class Kanguruu extends Animals {
+	boolean canJumpBack;
 }

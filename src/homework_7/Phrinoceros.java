@@ -1,5 +1,5 @@
 package homework_7;
 
-public class Phrinoceros {
-
+public class Phrinoceros extends Animals {
+	String hornMaterial;
 }
