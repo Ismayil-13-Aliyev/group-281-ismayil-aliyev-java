@@ -73,7 +73,7 @@ public class Classwork_7 {
 		System.out.println(p3);
 		System.out.println(p4);
 		
-		double[] allp = {p1, p2, p3, p4}; 
+		double[] allp = {p1, p2, p3, p4};
 		
 		System.out.println(Arrays.stream(allp).max().getAsDouble());
 		
