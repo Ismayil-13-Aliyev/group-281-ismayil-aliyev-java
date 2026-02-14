@@ -76,7 +76,7 @@ public class Homework_9 {
 		
 		//5
 		
-		// taje problema tam v google sposob kotoriy mi ne proxodili
+		//? taje problema tam v google sposob kotoriy mi ne proxodili
 		
 		//6
 		
