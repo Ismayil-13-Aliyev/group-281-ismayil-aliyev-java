@@ -8,8 +8,9 @@ public class MathHelper {
 	
 	public static boolean isEven (int n) { // ya le boolean vozvrash v cem problema????????????????????????
 		if (n % 2 == 0) { 
-			boolean yes = true;
 			return true;
+		} else {
+			return false;
 		}
 	}
 	
